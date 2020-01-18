@@ -1,2 +1,2 @@
-# QWK-Calcualtor tool(still in progress)
+# QWK-Calcualtor tool
 basic calculator 
